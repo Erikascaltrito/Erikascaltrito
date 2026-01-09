@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikascaltrito&label=Profile%20views&color=0e75b6&style=flat" alt="erikascaltrito" /> </p>
 
-- 🔭 I’m currently working on [Drift Tracker](https://github.com/SabriVinco/DrifTracker.git)
+- 🔭 I’m currently working on my master thesis! 
 
-- 🌱 I’m currently learning **about RIS antennas, the application of Machine Learning in the telecommunications sector, the development of user interfaces with SwiftUI, and innovative technologies and methodologies in the networking field**
+- 🌱 I’m currently learning **about RIS antennas, the application of Machine Learning in the telecommunications sector and innovative technologies and methodologies in the networking field**
+
+- 👩🏻‍💻 I work as Software Developer @ Afliant.
 
 - 📫 How to reach me **erika.scaltrito@studenti.unitn.it**
 
